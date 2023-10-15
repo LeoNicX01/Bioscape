@@ -1,0 +1,660 @@
+-target:library
+-out:"Library/Bee/artifacts/1300b0aE.dag/VRBuilder.Core.dll"
+-refout:"Library/Bee/artifacts/1300b0aE.dag/VRBuilder.Core.ref.dll"
+-define:UNITY_2021_3_15
+-define:UNITY_2021_3
+-define:UNITY_2021
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:UNITY_INCLUDE_TESTS
+-define:USE_SEARCH_ENGINE_API
+-define:USE_SEARCH_TABLE
+-define:USE_SEARCH_MODULE
+-define:USE_PROPERTY_DATABASE
+-define:USE_SEARCH_EXTENSION_API
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_RUNTIME_PERMISSIONS
+-define:ENABLE_ENGINE_CODE_STRIPPING
+-define:ENABLE_ONSCREEN_KEYBOARD
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:ENABLE_VIDEO
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:PLATFORM_ANDROID
+-define:TEXTCORE_1_0_OR_NEWER
+-define:UNITY_ANDROID
+-define:UNITY_ANDROID_API
+-define:ENABLE_EGL
+-define:ENABLE_NETWORK
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:UNITY_CAN_SHOW_SPLASH_SCREEN
+-define:UNITY_HAS_GOOGLEVR
+-define:UNITY_HAS_TANGO
+-define:ENABLE_SPATIALTRACKING
+-define:ENABLE_ETC_COMPRESSION
+-define:PLATFORM_EXTENDS_VULKAN_DEVICE
+-define:PLATFORM_HAS_MULTIPLE_SWAPCHAINS
+-define:UNITY_ANDROID_SUPPORTS_SHADOWFILES
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:ENABLE_UNITYADS_RUNTIME
+-define:UNITY_UNITYADS_API
+-define:ENABLE_MONO
+-define:NET_STANDARD_2_0
+-define:NET_STANDARD
+-define:NET_STANDARD_2_1
+-define:NETSTANDARD
+-define:NETSTANDARD2_1
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:VR_BUILDER
+-define:VR_BUILDER_ENABLE_XR_INTERACTION
+-define:VR_BUILDER_XR_INTERACTION
+-define:UNITY_POST_PROCESSING_STACK_V2
+-define:INPUT_SYSTEM_PACKAGE
+-define:NEWTONSOFT_JSON
+-define:UNITY_LOCALIZATION
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
+-r:"D:/DATA FILES/Unity Hub/Editor/Unity 2021.3.15f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"D:/Project/Unity/Bioscape/Bioscape/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Localization.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/BehaviorSequence.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/ConfettiBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/ControlParticleEmissionBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/DelayBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/DisableGameObjectBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/EnableGameObjectBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/ExecuteChapterBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/ExecuteChaptersBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/GoToChapterBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/HighlightObjectBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/LockObjectBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/MoveObjectBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/PlayAudioBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/ResetValueBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/ScalingBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/SetComponentEnabledBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/SetComponentEnabledByTagBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/SetObjectsWithTagEnabledBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/SetParentBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/SetValueBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Behaviors/UnlockObjectBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Conditions/CompareValuesCondition.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Conditions/PositionalConditions/IObjectInTargetData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Conditions/PositionalConditions/ObjectInColliderCondition.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Conditions/PositionalConditions/ObjectInRangeCondition.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Conditions/PositionalConditions/ObjectInTargetCondition.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Conditions/TimeoutCondition.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/Operations/AndOperation.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/Operations/EqualToOperation.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/Operations/GreaterOrEqualOperation.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/Operations/GreaterThanOperation.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/Operations/IOperationCommand.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/Operations/LessThanOperation.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/Operations/LessThanOrEqualOperation.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/Operations/NotEqualToOperation.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/Operations/OrOperation.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/DataProperties/ProcessVariable.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/ProcessUtilities/ParticleMachines/ConfettiMachine.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/ProcessUtilities/ParticleMachines/IParticleMachine.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/ColliderWithTriggerProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Data/BooleanDataProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Data/DataProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Data/IDataProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Data/IDataPropertyBase.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Data/NumberDataProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Data/TextDataProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Highlighting/BaseHighlightProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Highlighting/EnableHighlightProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Highlighting/IHighlightProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Particles/IParticleSystemProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Particles/ParticleSystemProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Path/BezierSplinePathProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/Path/IPathProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Properties/TransformInRangeDetectorProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ActivationStateChangedEventArgs.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/AssemblyAttributes.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/DeletableAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/DisplayNameAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/DrawingPriorityAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/DrawIsBlockingToggleAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/ExtendableListAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/FoldableAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/HelpAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/HelpLinkAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/HideInProcessInspectorAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/IgnoreInStepInspectorAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/KeepPopulatedAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/ListOfAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/MetadataAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/ReorderableListOfAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/SeparatedAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/TooltipAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Attributes/UsesSpecificProcessDrawerAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Autocompleter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/BehaviorCollection.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Behaviors/Behavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Behaviors/BehaviorExecutionStages.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Behaviors/BehaviorMetadata.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Behaviors/EmptyProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Behaviors/IBehavior.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Behaviors/IBehaviorData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Behaviors/IBehaviorParent.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Chapter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ChapterMetadata.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ChildActivatedEventArgs.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ChildDeactivatedEventArgs.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/CompletableEntity.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/CompositeProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Conditions/BaseActiveProcessOverCompletable.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Conditions/Condition.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Conditions/ICompletableData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Conditions/ICondition.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Conditions/IConditionData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/BaseRuntimeConfiguration.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/DefaultRuntimeConfiguration.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/DefaultSceneObjectManager.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/IInteractionComponentConfiguration.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/IProcessAudioPlayer.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/IRuntimeConfiguration.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/ISceneConfiguration.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/ISceneObjectManager.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/BaseModeHandler.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/BlacklistTypeRule.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/IConfigurator.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/IMode.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/IModeData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/IModeHandler.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/IOptional.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/IRule.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/ListTypeRule.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/Mode.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/ModeChangedEventArgs.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/ModeParameter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/TypeRule.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/WhitelistTypeRule.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/PropertyExtensionExclusionList.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/RuntimeConfigurator.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/RuntimeConfigWrapper.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/SceneConfiguration.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configurator.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/CurrentChildChangedEventArgs.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EmptyAutocompleter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EmptyConfigurator.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Entities/ChapterFactory.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Entities/EntityFactory.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Entities/EntityPostProcessing.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Entities/ProcessFactory.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Entities/StepFactory.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Entities/StepPostProcessing.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Entities/TransitionFactory.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Entity.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Collection/EntityCollectionData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Collection/IEntityCollectionData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Collection/IEntityCollectionDataWithMode.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Folded/FoldedActivatingProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Folded/FoldedActiveProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Folded/FoldedDeactivatingProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Folded/FoldedLifeCycleConfigurator.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Parallel/ParallelActivatingProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Parallel/ParallelActiveProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Parallel/ParallelConfigurator.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Parallel/ParallelDeactivatingProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Parallel/Process.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Sequence/EntityIteratingProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Sequence/IEntityNonLinearSequenceDataWithMode.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Sequence/IEntitySequenceData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Sequence/IEntitySequenceDataWithMode.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Sequence/SequenceConfigurator.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Sequence/StopEntityIteratingProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Exceptions/AlreadyRegisteredException.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Exceptions/InvalidStateException.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Exceptions/MissingEntityException.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Exceptions/MissingModeException.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Exceptions/NameNotUniqueException.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Exceptions/ProcessException.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Exceptions/PropertyNotFoundException.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/FastForwardProcessEventArgs.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IAutocompleter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IBackgroundBehaviorData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IBehaviorCollection.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IBehaviorCollectionData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IChapter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IChapterData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IClonable.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ICompletable.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ICompletableEntity.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IDataOwner.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IDescribable.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IDescribedData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IEntity.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ILifeCycle.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ILockableStepData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IMetadata.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/INamedData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Input/DefaultInputController.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Input/IInputActionListener.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Input/IInputFocus.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Input/InputActionListener.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Input/InputController.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/InstantProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/AndroidFileSystem.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/DefaultFileSystem.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/FileManager.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/IPlatformFileSystem.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/IProcessAssetManifest.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/IProcessAssetStrategy.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/ProcessAssetManifest.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/SingleFileProcessAssetStrategy.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/SplitChaptersProcessAssetStrategy.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IO/WebGlFileSystem.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IProcessData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IRenameableData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IStageProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IStep.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IStepChild.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/IStepData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ITransition.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ITransitionCollection.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ITransitionCollectionData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ITransitionData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/LifeCycle.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Localization/ILocalizedContent.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Localization/LanguageSettings.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Localization/LanguageUtils.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/LockableObjectsCollection.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Metadata.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Metadata/ReorderableElementMetadata.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Process.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/AttachToUserView.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/BasicProcessLoader.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/Controllers/BaseProcessController.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/Controllers/IProcessController.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/Controllers/SpectatorProcessController.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/Controllers/StandardProcessController.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/DefaultAudioPlayer.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/IConfigurableProcessController.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/InitProcessOnSceneLoad.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/ProcessControllerSetup.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessEventArgs.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessMetadata.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessRunner.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessValidation/IAttributeValidator.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessValidation/ReportEntry.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessValidation/ValidationErrorLevel.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Properties/ILockablePropertiesProvider.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Properties/ISceneObjectProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Properties/ISceneObjectPropertyExtension.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Properties/LockableProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Properties/LockablePropertyData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Properties/LockablePropertyReference.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Properties/ProcessSceneObjectProperty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Properties/PropertyReflectionHelper.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Properties/UserSceneObject.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/RestrictiveEnvironment/DefaultStepLockHandling.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/RestrictiveEnvironment/NonLockingStepHandling.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/RestrictiveEnvironment/StepLockHandlingStrategy.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/ILockable.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/ISceneObject.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/ISceneObjectRegistry.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/ITagContainer.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/LockStateChangedEventArgs.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/ObjectReference.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/ProcessSceneObject.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/PropertyReferenceOrTagSelectableValue.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/SceneObjectExtensions.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/SceneObjectReference.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/SceneObjectRegistry.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/SceneObjectTag.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/SceneObjectTagBase.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/ScenePropertyReference.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/SelectableValue.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/UniqueNameReference.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/SceneObjects/VideoClipOrURLSelectableValue.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/IProcessSerializer.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/AnimationCurveConverter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/ImprovedNewtonsoftJsonProcessSerializer.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/IndividualStepTransitionConverter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/KeyframeConverter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/NewtonsoftConverterAttribute.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/NewtonsoftJsonProcessSerializer.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/NewtonsoftJsonProcessSerializerV3.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/NewtonsoftJsonProcessSerializerV4.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/UnityColorConverter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/Vector2Converter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/Vector3Converter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/Vector4Converter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Settings/InteractionSettings.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Settings/SceneObjectTags.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Stage.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/StageProcess.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Step.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/StepMetadata.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Transition.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/TransitionCollection.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/UI/Spectator/SpectatorCamera.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/UI/Spectator/SpectatorCameraDummy.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/UI/Spectator/SpectatorController.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/UI/Utils/FontSetter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Unity/ConsoleUtils.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Unity/CoroutineDispatcher.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Unity/SceneUtils.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Unity/Singleton.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Unity/UnitTestChecker.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Unity/UnityDebugLogErrorWriter.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Unity/UnitySceneSingleton.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Unity/UnitySingleton.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/Audio/IAudioData.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/Audio/ResourceAudio.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/Bezier/Bezier.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/Bezier/BezierControlPointMode.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/Bezier/BezierSpline.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/ICanBeEmpty.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/LockObjectsOnSceneStart.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/Logging/LifeCycleLoggingConfig.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/MathUtils.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/ProcessReferenceUtils.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/ReflectionUtils.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/SettingsObject.cs"
+"Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Utils/SortingUtils.cs"
+-langversion:9.0
+
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+
+/nowarn:0169
+/nowarn:0649
+/nowarn:1701
+/nowarn:1702
+/utf8output
+/preferreduilang:en-US
+
+
+/additionalfile:"Library/Bee/artifacts/1300b0aE.dag/VRBuilder.Core.AdditionalFile.txt"
