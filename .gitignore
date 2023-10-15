@@ -86,4 +86,5 @@ crashlytics-build.properties
 #/[Aa]ssets/[Ss]treamingAssets/aa/*
 #I added '#' here --
 
+#Large Files Ignored
 /[Ll]ibrary/ArtifactDB
