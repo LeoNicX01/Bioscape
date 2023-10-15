@@ -4836,7 +4836,7 @@
           "$id": "878",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 164.0,
+            "x": 165.0,
             "y": 0.0
           },
           "StepType": "default",
@@ -4907,7 +4907,7 @@
                               "GrabbableProperty": {
                                 "$id": "894",
                                 "$type": "VRBuilder.Core.SceneObjects.ScenePropertyReference`1[[VRBuilder.BasicInteraction.Properties.IGrabbableProperty, VRBuilder.BasicInteraction]], VRBuilder.Core",
-                                "UniqueName": "Sphere"
+                                "UniqueName": ""
                               },
                               "IsCompleted": false,
                               "Metadata": null
@@ -5091,12 +5091,12 @@
                               "TargetObject": {
                                 "$id": "928",
                                 "$type": "VRBuilder.Core.SceneObjects.SceneObjectReference, VRBuilder.Core",
-                                "UniqueName": "Sphere"
+                                "UniqueName": ""
                               },
                               "TriggerProperty": {
                                 "$id": "929",
                                 "$type": "VRBuilder.Core.SceneObjects.ScenePropertyReference`1[[VRBuilder.Core.Properties.ColliderWithTriggerProperty, VRBuilder.Core]], VRBuilder.Core",
-                                "UniqueName": "bird cage.001"
+                                "UniqueName": ""
                               },
                               "RequiredTimeInside": 0.0,
                               "Metadata": null
